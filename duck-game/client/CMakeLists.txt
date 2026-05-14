@@ -1,0 +1,49 @@
+target_sources(taller_client
+    PRIVATE
+    # .cpp files
+    main.cpp
+    game.cpp
+    match.cpp
+    sprite.cpp
+    player.cpp
+    background.cpp
+    inputManager.cpp
+    weapon.cpp
+    # clientLobby.cpp
+    lobbyProtocol.cpp
+    gameSender.cpp
+    gameReceiver.cpp
+    gameProtocol.cpp
+    middleAnimation.cpp
+    userInterface.cpp
+    prop.cpp
+    weaponSpawn.cpp
+    camera.cpp
+    helmet.cpp
+    armor.cpp
+    playerBullet.cpp
+    mediaPlayer.cpp
+    PUBLIC
+    # .h files
+    game.h
+    match.h
+    sprite.h
+    player.h
+    background.h
+    inputManager.h
+    weapon.h
+    # clientLobby.h
+    lobbyProtocol.h
+    gameSender.h
+    gameReceiver.h
+    gameProtocol.h
+    middleAnimation.h
+    userInterface.h
+    prop.h
+    weaponSpawn.h
+    camera.h
+    helmet.h
+    armor.h
+    playerBullet.h
+    mediaPlayer.h
+    )
