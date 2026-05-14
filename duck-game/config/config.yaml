@@ -1,0 +1,11 @@
+physicsConfig:
+  gravity: 200.0
+  jump_force: -150.0
+  move_speed: 160.0
+  terminal_velocity: 350.0
+  fixed_timestamp: 0.033333333
+  fraction: 30.0
+
+physicsState:
+  velocity_x: 0.0
+  velocity_y: 0.0
