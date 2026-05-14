@@ -7,10 +7,6 @@ En esta rama se encuentra la entrega de TP grupal del grupo 19, catedra Veiga
 * Lozano Ramiro
 * Pared Ariel Cristian
 
-**Correctores:**
-* Encinoza Nathalia
-* Erlich Ivan
-
 ## Indice
 
 1. [Instrucciones de uso](#Instrucciones-de-uso)
